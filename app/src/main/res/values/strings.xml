@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Control de Datos</string>
+    <string name="titulo_confirmar">Confirmar Datos</string>
+
+    <string name="hint_nombre">Nombre Completo</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_fecha">Fecha Nacimiento</string>
+    <string name="fecha_dia">fecha_dia</string>
+    <string name="fecha_mes">fecha_mes</string>
+    <string name="fecha_anio">fecha_anio</string>
+    <string name="hint_descripcion">Descripción Contacto</string>
+
+    <string name="txtboton_siguiente">Siguiente</string>
+    <string name="txtboton_editar">Editar Datos</string>
+
+
+</resources>
